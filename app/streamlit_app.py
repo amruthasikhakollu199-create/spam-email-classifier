@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # The URL where our FastAPI backend is running
-API_URL = "https://spam-email-classifier-x74c.onrender.com"
+API_URL = "https://spam-email-classifier-x74c.onrender.com/predict"  # Update this to your deployed API URL if different
 
 st.set_page_config(page_title="Spam Classifier", page_icon="📧")
 
