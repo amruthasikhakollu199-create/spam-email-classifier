@@ -144,4 +144,4 @@ The model was trained on a dataset of primarily UK/US-style SMS spam from the ea
 
 ## 👤 Author
 
-Built as a hands-on learning project covering the full ML engineering lifecycle: data preprocessing, model training/evaluation, API development, frontend development, and containerized deployment.
+Built as a hands-on learning project covering the full ML engineering lifecycle: data preprocessing, model training/evaluation, API development, frontend development, and containerized deployment."# spam-email-classifier" 
